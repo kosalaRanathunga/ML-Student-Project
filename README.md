@@ -125,7 +125,7 @@ streamlit run app.py
 ---
 ## Application Interface
 
-![Application](images/home.png)
+![Application](home.png)
 
 ## 📄 License
 
