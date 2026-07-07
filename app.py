@@ -12,7 +12,11 @@ from nltk.corpus import stopwords
 from nltk.stem import PorterStemmer
 
 # Download NLTK resources
+import nltk
+
+# Download required NLTK resources
 nltk.download('punkt')
+nltk.download('punkt_tab')
 nltk.download('stopwords')
 
 # Load trained model
