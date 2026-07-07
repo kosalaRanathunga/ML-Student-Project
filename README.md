@@ -123,9 +123,18 @@ streamlit run app.py
 **Project:** Email Spam Detection using Multinomial Naive Bayes
 
 ---
-## Application Interface
 
-![Application](home.png)
+## 🖥️ Application Interface
+
+![Home](home.png)
+
+## 🚨 Spam Email Prediction
+
+![Spam Prediction](spam_prediction.png)
+
+## ✅ Ham Email Prediction
+
+![Ham Prediction](ham_prediction.png)
 
 ## 📄 License
 
