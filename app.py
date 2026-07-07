@@ -118,6 +118,8 @@ st.sidebar.info("""
 Email Spam Detection using Multinomial Naive Bayes
 
 **Student Name:** Kosala Ranathunga
+                
+**Student ID:** S25021954
 
 This application predicts whether an email is Spam or Ham using Machine Learning.
 """)
